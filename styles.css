@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    margin-right: 15px;
+}
+
+.allpage {
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+header {
+    padding-left: 45px;
+    padding-top: 24px;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 41px;
+    color: #5D5D7D;
+    word-spacing: 50px;
+}
+
+.link {
+    cursor: pointer;
+}
+
+.caixaima {
+    padding-top: 60px;
+    padding-left: 100px;
+
+}
+
+.imagem {
+    height: 400px;
+    width: 350px;
+    position: relative;
+    right: 194px;
+    top: 50px;
+}
+
+.caixa-esquerda {
+    display: inline-block;
+    width: 60vw;
+    padding-left: 160px;
+    padding-right: 150px;
+   padding-top: 205px;
+}
+
+.caixa-direita {
+    display: inline-block;
+    background: rgba(93, 93, 125,0.16);
+    height: 100vh;
+    width: 39.7vw;
+    position: absolute;
+}
+
+h1 {
+    font-size: 70px;
+    line-height: 80px;
+    color: #5D5D7D;
+    font-weight: 400;
+}
+
+p {
+    font-size: 28px;
+    line-height: 48px;
+    color: #5D5D7D;
+    font-weight: 400;
+    opacity: 0.6;
+}
+
+.botao {
+    width: 269px;
+    height: 62px;
+    border-radius: 50px;
+    background: #9499EA;
+    color: white;
+    margin-top: 15px;
+    cursor: pointer;
+    border: none;
+    font-size: 18px;
+}
+.botao:hover {
+opacity: 0.6;
+}
+
